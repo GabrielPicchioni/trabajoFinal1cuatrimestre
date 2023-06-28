@@ -8,10 +8,26 @@
     background-color: #f1e7b6;
     width: 100%;
     /*height: 500px;*/
+
 }
 
+.contenedor1 {
+    display: flex;
+    flex-direction:column;
+    /*flex-wrap:wrap;*/
+    /*flex-flow: row wrap;*/
+    justify-content:sp:space-around;
+    align-items:start;
+    background-color: #ffa07a;
+    width: 100%;
+    /*height: 500px;*/
+
+}
+
+
+
 .frameSlide {
-    background-color: lightsalmon;
+    background-color: #ffa07a;
     width: 100%;
     /*width: 600px;
     height: 400px;*/
@@ -19,7 +35,8 @@
 
 
 .frameDatos {
-    background-color: aqua;
-    width: 300px;
+    background-color: rgba(196, 47, 47, 0.593);
+    width: 200px;
+   display: flex;
     /*height: 200px;*/
 }

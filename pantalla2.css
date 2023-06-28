@@ -1,0 +1,43 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px outset rgb(232, 43, 43);
+    align-content: space-between;
+    height: 50px;
+    padding: 200px;
+} 
+
+
+  
+ 
+
+
+
+
+    /*display: flex;
+    flex-direction:column;
+    /*flex-wrap:wrap;*/
+    /*flex-flow: row wrap;*/
+    /* justify-content:sp:space-around;
+    align-items:start;
+    background-color: #f1e7b6;
+    width: 100%;
+    text-align: center; */
+    
+    /*height: 500px;*/
+
+     
+  
+
+
+
+
+
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+</style>
